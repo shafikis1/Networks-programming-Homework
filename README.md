@@ -1,3 +1,3 @@
 # Networks-programming-Homework
 
-First Homewrok answered by Shafik Ismail.
+First Networks programming Homework answered by Shafik Ismail.
